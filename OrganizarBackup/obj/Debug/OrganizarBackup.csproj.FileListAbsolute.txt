@@ -1,0 +1,44 @@
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe.config
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.pdb
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csprojResolveAssemblyReference.cache
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Form1.resources
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Properties.Resources.resources
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csproj.GenerateResource.Cache
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.exe
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
+c:\users\elcio hintze\documents\visual studio 2015\Projects\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.WFSettings.resources
+D:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe.config
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.exe
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csprojResolveAssemblyReference.cache
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Form1.resources
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Properties.Resources.resources
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.WFSettings.resources
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csproj.GenerateResource.Cache
+D:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe
+D:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.pdb
+G:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe.config
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.exe
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
+G:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe
+G:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.pdb
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csprojResolveAssemblyReference.cache
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Form1.resources
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Properties.Resources.resources
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.WFSettings.resources
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csproj.GenerateResource.Cache
+E:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe.config
+E:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.exe
+E:\Organizer\OrganizarBackup\OrganizarBackup\bin\Debug\OrganizarBackup.pdb
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csprojAssemblyReference.cache
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Form1.resources
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Properties.Resources.resources
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.WFSettings.resources
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csproj.GenerateResource.cache
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.csproj.CoreCompileInputs.cache
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.exe
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
+E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
+D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
+G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
