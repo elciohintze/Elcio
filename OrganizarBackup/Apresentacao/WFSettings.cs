@@ -107,7 +107,9 @@ namespace OrganizarBackup
                         }
                         finally
                         {
-                            File.Delete($"{inputFolder}\\{infoArquivo.Name}"); //apaga o arquivo do diretório de entrada após copiar para o novo diretório
+                            File.Delete($"{inputFolder}\\{infoArquivo.Name}");
+                            //apaga o arquivo do diretório de entrada após copiar para o novo diretório ss
+
                         }
                     }
 
