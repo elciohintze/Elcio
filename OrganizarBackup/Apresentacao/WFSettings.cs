@@ -125,7 +125,7 @@ namespace OrganizarBackup
             FolderBrowserDialog fbd = new FolderBrowserDialog();
             if (fbd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                txtInput.Text = fbd.SelectedPath;//selecionado diretorio sss
+                txtInput.Text = fbd.SelectedPath;//selecionado diretorio sss dsaudjas
             }
         }
 
