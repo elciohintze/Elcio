@@ -114,8 +114,8 @@ namespace OrganizarBackup
 
                 }
 
-                MessageBox.Show("process completed!!");//mensagem de sucesso
-                btnRun.Enabled = true; //reativando o botão!
+                MessageBox.Show("process completed!!");
+                btnRun.Enabled = true; //Ativa novamente o botão
             }
         }
 
