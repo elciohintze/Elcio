@@ -107,7 +107,8 @@ namespace OrganizarBackup
                         }
                         finally
                         {
-                            File.Delete($"{inputFolder}\\{infoArquivo.Name}"); //apaga o arquivo do diretório de entrada após copiar para o novo diretório
+                            File.Delete($"{inputFolder}\\{infoArquivo.Name}"); //teste 
+                            //apaga o arquivo do diretório de entrada após copiar para o novo diretório
                         }
                     }
 
@@ -116,7 +117,6 @@ namespace OrganizarBackup
 
                 MessageBox.Show("process completed");
                 btnRun.Enabled = true; //reativando o botão
-                //remover depois esta linha de comentario dasdas dasd dsdasd
             }
         }
 
