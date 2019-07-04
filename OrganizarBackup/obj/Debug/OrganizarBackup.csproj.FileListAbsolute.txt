@@ -42,3 +42,6 @@ E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
 E:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
 D:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
 G:\Organizer\OrganizarBackup\OrganizarBackup\obj\Debug\OrganizarBackup.Apresentacao.WFAbout.resources
+C:\Users\elcio.hintze\Source\Repos\Elcio\OrganizarBackup\bin\Debug\OrganizarBackup.exe.config
+C:\Users\elcio.hintze\Source\Repos\Elcio\OrganizarBackup\obj\Debug\OrganizarBackup.exe
+C:\Users\elcio.hintze\Source\Repos\Elcio\OrganizarBackup\obj\Debug\OrganizarBackup.pdb
