@@ -41,7 +41,7 @@ namespace OrganizarBackup
                     string primeiraLetra = infoArquivo.Name.Substring(0, 1); // pegando a primeira letra do arquivo
                     string arquivosDuplicados = Path.Combine(txtOutput.Text, "DUPLICADOS");
 
-                    //a sequencia de IF's abaixo valida a extensão do arquivo e determina a pasta 
+                    //A sequencia de IF's abaixo valida a extensão do arquivo e determina a pasta 
                     if ((extension == "txt") || (extension == "xml") || (extension == "html") || (extension == "csv"))
                     {
                         Dir = "TEXTO";
